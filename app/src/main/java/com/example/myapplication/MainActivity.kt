@@ -12,5 +12,8 @@ class MainActivity : AppCompatActivity() {
         // Comment
         // Other comment
 
+
+        // Comment for new branch test
+
     }
 }
